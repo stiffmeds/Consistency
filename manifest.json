@@ -1,0 +1,7 @@
+{
+    "name": "Consistency",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/stiffmeds/Consistency",
+    "description": "Disables all in-game Paradox integration.",
+    "dependencies": []
+}
