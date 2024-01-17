@@ -1,13 +1,14 @@
 # Obeliskial Content
 
-Micromod that disables all in-game Paradox integration in Across the Obelisk. If you would like to disable the Paradox launcher, have a look at [Shiruku's Steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3112587877)
+Micromod that disables all in-game Paradox integration in Across the Obelisk. If you would like to disable the Paradox launcher, have a look at [Shiruku's Steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3112587877).
 
 ## Installation (manual)
 
-1. Click _Manual Download_ at the top of the page.
-2. In Steam, right-click Across the Obelisk and select _Manage_->_Browse local files_.
-3. Extract the archive into the game folder. 
-4. Run the game. If everything runs correctly, you will no longer see anything Paradox-related on the main menu.
+1. Install the [BepInEx pack](https://across-the-obelisk.thunderstore.io/package/BepInEx/BepInExPack_AcrossTheObelisk/).
+2. Click _Manual Download_ at the top of the page.
+3. In Steam, right-click Across the Obelisk and select _Manage_->_Browse local files_.
+4. Extract the archive into the game folder. 
+5. Run the game. If everything runs correctly, you will no longer see anything Paradox-related on the main menu.
 
 ## Installation (automatic)
 
